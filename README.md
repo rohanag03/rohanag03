@@ -4,10 +4,10 @@
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 </p>
 
-- 🌱 Keen on learning interesting concepts in computer science.
-- 💻 I’m currently learning **Data Structure**.
-- ⚡ Interested in brainstorming ideas and solve real worl problems.
-- ☁️ Eager to learn **Cloud Computing**.
+- 🌱 Keen on learning core concepts in computer science.
+- 💻 I’m currently learning **Android Development**.
+- ⚡ Interested in brainstorming ideas and solve real world problems.
+- ☁️ Eager to dive into varied Development projects.
 - 📫 How to reach me **rohanag03@gmail.com**
 
 </a>
