@@ -17,7 +17,7 @@
 <p align="left">
  <a href="https://linktr.ee/rohannag" target="blank"><img align="center" src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png" alt="rohannag" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/rohannag" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png" alt="LinkedIn" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/rohanag03" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank" height="40" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/rohanag03/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20210228231058/gfg.png" alt="GFG" height="40" width="40" /></a>
 <a href="https://instagram.com/rohannnagg" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" alt="Instagram" height="40" width="40" /></a>
 
 <br>
